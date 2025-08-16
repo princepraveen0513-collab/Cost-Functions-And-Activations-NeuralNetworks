@@ -1,6 +1,6 @@
 # Cost-Functions-And-Activations-NeuralNetworks
 
-# Deep Learning Assignment – Initialization & Loss Function Study (PyTorch + Iris)
+# Initialization & Loss Function Study (PyTorch + Iris)
 **Notebook:** `NeuralNetworksCostFunctionsAndActivations.ipynb`  
 **Subtitle:** ~ By Guardians of The Galaxy
 
